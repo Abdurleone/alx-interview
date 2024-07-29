@@ -24,4 +24,3 @@ def pascal_triangle(n):
             triangle.append(current)
 
     return triangle
-
