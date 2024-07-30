@@ -39,8 +39,8 @@ In this example, you can start with the first lockbox (index 0) and unlock the o
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Abdurleone/alx-interview.git
+   cd 0x01-lockboxes
    ```
 
 2. Install dependencies:
